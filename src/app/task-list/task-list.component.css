@@ -1,0 +1,21 @@
+button {
+    color: white;
+    background-color: red
+}
+
+ul li {
+    padding: 5px;
+    font-size: 20px;
+}
+
+.item-red {
+    color: red
+}
+
+.item-green {
+    color: green
+}
+
+.teste {
+    font-size: 50px !important
+}
